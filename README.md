@@ -11,35 +11,35 @@
 
 ## Fitur Utama
 
-### Whale Activity Tracker**
+### Whale Activity Tracker
 - Monitoring transaksi besar dari dompet whale Solana
 - Pelacakan hingga 5 alamat whale utama
 - Filter berdasarkan jumlah transaksi dan waktu
 - Eksport data ke CSV/JSON
 - Real-time signature tracking
 
-### Market Flow Analyzer**
+### Market Flow Analyzer
 - Analisis DEX (Jupiter, Raydium, Orca)
 - Tracking volume trading real-time
 - Price action monitoring via CoinGecko API
 - Flow visualization untuk token pairs
 - Swap analytics dengan filter advanced
 
-### Staking Monitor**
+### Staking Monitor
 - Monitor 849+ validator Solana
 - Data APY real-time untuk semua validator
 - Staking statistics dan performance metrics
 - Leaderboard validator berdasarkan performa
 - Export staking data untuk analysis
 
-### Real-time Feed**
+### Real-time Feed
 - Live event streaming dari blockchain Solana
 - Real-time transaction updates
 - WebSocket connection untuk data terbaru
 - Auto-refresh setiap 5 detik
 - Event aggregation dari multiple sources
 
-### Wallet Integration**
+### Wallet Integration
 - Multi-wallet support (Phantom, Solflare, Coinbase, Trust Wallet, Ledger)
 - Seamless wallet connection
 - Transaction history integration
